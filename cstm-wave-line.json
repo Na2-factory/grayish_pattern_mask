@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "cstm-wave-line",
+  "content": "<!-- wp:cover {\"overlayColor\":\"sdblue-fifty\",\"isUserOverlayColor\":true,\"minHeight\":430,\"minHeightUnit\":\"px\",\"tagName\":\"section\",\"metadata\":{\"name\":\"cstm-simple-line\"},\"align\":\"full\",\"className\":\"cstm-blk-fullwide cstm-wave-line\",\"layout\":{\"type\":\"constrained\",\"contentSize\":\"100%\"}} -->\n<section class=\"wp-block-cover alignfull cstm-blk-fullwide cstm-wave-line\" style=\"min-height:430px\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-sdblue-fifty-background-color has-background-dim-100 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:paragraph {\"align\":\"center\",\"placeholder\":\"タイトルを入力...\",\"fontSize\":\"large\"} -->\n<p class=\"has-text-align-center has-large-font-size\"></p>\n<!-- /wp:paragraph --></div></section>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}

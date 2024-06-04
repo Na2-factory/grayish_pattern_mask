@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "cstm-blk-img-sample",
+  "content": "<!-- wp:image {\"id\":3790,\"sizeSlug\":\"full\",\"linkDestination\":\"none\",\"metadata\":{\"name\":\"cstm-blk-img-sample\"},\"align\":\"full\",\"className\":\"cstm-blk-fullwide cstm-blk-img-height \"} -->\n<figure class=\"wp-block-image alignfull size-full cstm-blk-fullwide cstm-blk-img-height\"><img src=\"https://cocoon-grayish.na2-factory.com/wp-content/uploads/img-wave-zig-test-2-1.jpg\" alt=\"\" class=\"wp-image-3790\"/></figure>\n<!-- /wp:image -->",
+  "syncStatus": "unsynced"
+}
